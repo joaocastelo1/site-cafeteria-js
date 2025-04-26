@@ -15,7 +15,9 @@ Promoções:
 Uma seção dedicada às ofertas especiais da cafeteria, para atrair novos clientes.
 
 🚀 Links do Projeto:
+
 <h4>Link:</h4>
+
 >Deploy: https://daliosy.github.io/cafeteria
 
 >Repoditório: https://github.com/DalioSY/cafeteria
@@ -23,6 +25,7 @@ Uma seção dedicada às ofertas especiais da cafeteria, para atrair novos clien
 >Linkedin: https://www.linkedin.com/in/joao-castelo-ferreira/
 
 🛠️ Tecnologias utilizadas
+
 HTML5
 
 CSS3
