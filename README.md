@@ -1,37 +1,43 @@
 
 
-<h1 align="center">Projeto Cafeteria</h1>
+☕ Site de Cafeteria - Projeto Front-End
+Conteúdo Atraente
+Este projeto apresenta um site de cafeteria com imagens de alta qualidade, textos informativos e uma paleta de cores aconchegante, pensado para oferecer uma experiência acolhedora ao usuário.
 
+🏡 Algumas seções em destaque:
+Home:
+Uma imagem de fundo convidativa, um breve resumo da cafeteria e links para as principais seções do site.
 
+Menu:
+Uma lista completa dos produtos da cafeteria, com fotos, descrições e preços.
 
-<h2>Olá sejam bem-vindo</h2>
+Promoções:
+Uma seção dedicada às ofertas especiais da cafeteria, para atrair novos clientes.
 
-<p></p>
-
-Compartilhando meu projeto de cafeteria em HTML e CSS!
-
-Este projeto foi desenvolvido utilizando HTML e CSS, com foco em:
-
-Conteúdo atraente: 
-
-O site apresenta imagens de alta qualidade, textos informativos e uma paleta de cores aconchegante.
-Alguns destaques do projeto:
-
-Home: Uma imagem de fundo convidativa, um breve resumo da cafeteria e links para as principais seções do site.
-Menu: Uma lista completa dos produtos da cafeteria, com fotos, descrições e preços.
-Promoções: Uma seção dedicada às ofertas especiais da cafeteria, para atrair novos clientes.
-
-Agradeço a todos que me acompanharam neste projeto e espero que ele inspire outros desenvolvedores a criarem sites incríveis!
-
+🚀 Links do Projeto:
 <h4>Link:</h4>
-
 >Deploy: https://daliosy.github.io/cafeteria
 
 >Repoditório: https://github.com/DalioSY/cafeteria
 
->Linkedin: https://www.linkedin.com/in/dalio-s-yamada/
+>Linkedin: https://www.linkedin.com/in/joao-castelo-ferreira/
 
-#html #css #webdevelopment #portfolio #designresponsivo #ux #ui #cafe
+🛠️ Tecnologias utilizadas
+HTML5
+
+CSS3
+
+Responsividade para diversos dispositivos
+
+✨ Agradecimentos
+Agradeço a todos que me acompanharam neste projeto. Espero que ele inspire outros desenvolvedores a criarem sites incríveis e a continuarem evoluindo na área de desenvolvimento web!
+
+📢 Hashtags
+#html #css #webdevelopment #portfolio #designresponsivo #ux #ui #cafeteria #frontend
+
+
+
+
  
 <br>
 
