@@ -18,9 +18,9 @@ Uma seção dedicada às ofertas especiais da cafeteria, para atrair novos clien
 
 <h4>Link:</h4>
 
->Deploy: https://daliosy.github.io/cafeteria
+>Deploy: https://site-cafeteria-js.vercel.app/
 
->Repoditório: https://github.com/DalioSY/cafeteria
+>Repoditório: https://github.com/joaocastelo1/site-cafeteria-js
 
 >Linkedin: https://www.linkedin.com/in/joao-castelo-ferreira/
 
